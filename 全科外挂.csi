@@ -1,0 +1,23 @@
+[历史]
+1=#P0#=mb	#P1#=FindpopwindowHandle	#P2#=全科辅助/Form1/FindpopwindowHandle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160923165300	#P7#=0	#P8#=10	.
+2=#P0#=mb	#P1#=FindWindowLike	#P2#=全科辅助/Module1/FindWindowLike	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160923165711	#P7#=0	#P8#=56	.
+3=#P0#=mb	#P1#=Timer1_Timer	#P2#=全科辅助/Form1/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923163851	#P7#=0	#P8#=12	.
+4=#P0#=mb	#P1#=TimRun_Timer	#P2#=全科辅助/Form1/TimRun_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923163737	#P7#=0	#P8#=24	.
+5=#P0#=mb	#P1#=cmdRun_Click	#P2#=全科辅助/Form1/cmdRun_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923163509	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=FindbuttonHandle	#P2#=全科辅助/Form1/FindbuttonHandle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160923162332	#P7#=0	#P8#=4	.
+7=#P0#=mb	#P1#=TimHandle_Timer	#P2#=全科辅助/Form1/TimHandle_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923155130	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=EnumChildProc	#P2#=全科辅助/Module2/EnumChildProc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160923154938	#P7#=0	#P8#=17	.
+9=#P0#=mb	#P1#=Form_Load	#P2#=全科辅助/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923154439	#P7#=0	#P8#=18	.
+10=#P0#=mb	#P1#=ReadData	#P2#=全科辅助/mdlIni/ReadData	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160922165240	#P7#=0	#P8#=4	.
+11=#P0#=mb	#P1#=Form_Unload	#P2#=全科辅助/Form1/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160922114656	#P7#=0	#P8#=1	.
+12=#P0#=mb	#P1#=FindwindowHandle	#P2#=全科辅助/Form1/FindwindowHandle	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160922080018	#P7#=0	#P8#=2	.
+[History]
+1=#P0#=mb	#P1#=Form_Load	#P2#=全科辅助/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923210728	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=TimHandle_Timer	#P2#=全科辅助/Form1/TimHandle_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160924131320	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=Timer1_Timer	#P2#=全科辅助/Form1/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923204538	#P7#=0	#P8#=14	.
+4=#P0#=mb	#P1#=TimRun_Timer	#P2#=全科辅助/Form1/TimRun_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923204420	#P7#=0	#P8#=24	.
+5=#P0#=mb	#P1#=FindbuttonHandle	#P2#=全科辅助/Form1/FindbuttonHandle	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160923204347	#P7#=0	#P8#=20	.
+6=#P0#=mb	#P1#=FindpopwindowHandle	#P2#=全科辅助/Form1/FindpopwindowHandle	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160923204240	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=FindWindowLike	#P2#=全科辅助/Module1/FindWindowLike	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160923204022	#P7#=0	#P8#=122	.
+8=#P0#=mb	#P1#=cmdRun_Click	#P2#=全科辅助/Form1/cmdRun_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160923203839	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=SetWindowIcon	#P2#=全科辅助/mdlIni/SetWindowIcon	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20160921165902	#P7#=0	#P8#=-1	.
